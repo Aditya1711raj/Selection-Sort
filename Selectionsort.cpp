@@ -22,7 +22,7 @@ int main(){
 
     cout<<endl;
 
-    //insertion sort
+    //selection sort
 
     for(int i = 0;i<n-1;i++){
         int min = INT_MAX;
